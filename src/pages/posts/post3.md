@@ -1,6 +1,6 @@
 # Fallout 3: A Post-Apocalyptic Action Role-Playing Game
 
-![Fallout 3 Logo](https://upload.wikimedia.org/wikipedia/en/4/43/Fallout_3_cover_art.png)
+![Fallout 3 pic](https://cdn2.unrealengine.com/egs-fallout3gameoftheyearedition-bethesdagamestudios-g1c-00-1920x1080-3a2261e31999.jpg?h=270&quality=medium&resize=1&w=480)
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Fallout 2: A Post Nuclear Role Playing Game
 
-![Fallout 2 Logo](https://upload.wikimedia.org/wikipedia/en/6/63/Fallout2box.jpg)
+![Fallout 2 pic](https://upload.wikimedia.org/wikipedia/en/c/c3/PC_Game_Fallout_2.jpg)
 
 ## Overview
 
