@@ -20,6 +20,6 @@ Similar to its predecessors, Fallout 3 incorporates an open-world setting with a
 
 ## Legacy
 
-Fallout 3 is widely praised for its immersive open-world environment, compelling narrative, and the introduction of a 3D perspective to the series. The game significantly expanded the Fallout universe, introducing a new generation of players to its post-apocalyptic world.
+Fallout 3 is widely known for its location, shakey narrative, and the introduction of a 3D perspective to the series. The game significantly modernize the Fallout universe, introducing a new generation of players to its post-apocalyptic world, who would not be willing to play the earlier titles.
 
 It received numerous awards and nominations for its storytelling, world design, and gameplay mechanics, further solidifying Fallout's position as a prominent franchise in the gaming industry.
